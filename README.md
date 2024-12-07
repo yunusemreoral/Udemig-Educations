@@ -1,4 +1,4 @@
-# Udemig Educations Website
+# Udemig Educations Website 🧑‍💻
 
 Bu proje HTML5,CSS3,JS,SCSS ile oluşturulmuş Yazılım Eğitimi site arayüzü içerir.
 SCSS ile proje içerisinde bölümler oluşturularak projenin yönetimi kolaylaştırılmıştır.
